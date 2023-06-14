@@ -1,2 +1,2 @@
 # PrimerRepo
-Repositorio de prueba para ver el funcionamiento dr GitHub repositorio compartido
+Repositorio de prueba para ver el funcionamiento de GitHub repositorio compartido
